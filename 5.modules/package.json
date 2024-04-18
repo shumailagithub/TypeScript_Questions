@@ -1,0 +1,16 @@
+{
+  "name": "5.modules",
+  "version": "1.0.0",
+  "description": "Use of Modules",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shumaila",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

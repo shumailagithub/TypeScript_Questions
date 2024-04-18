@@ -1,0 +1,16 @@
+{
+  "name": "3.datatypes",
+  "version": "1.0.0",
+  "description": "Use of Data_Types",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shumaila",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
