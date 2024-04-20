@@ -1,0 +1,16 @@
+{
+  "name": "11.-if-else",
+  "version": "1.0.0",
+  "description": "use of if else",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shumaila",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
